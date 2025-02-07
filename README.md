@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<img src="images/leetcode_accepted.png" width="400" alt="Solution Performance">
 
 <!--
 **smwkbgmn/smwkbgmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
