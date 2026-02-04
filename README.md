@@ -5,7 +5,7 @@
  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,pytorch,opencv,linux,apple"/>  
 </p> 
 
-<br><br>
+<br>
 
 <p align="center">
  <img src="images/accepted.png" width="400" alt="Solution Performance">
