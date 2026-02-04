@@ -2,7 +2,7 @@
 
 <h3 align="center">What I utilize to embody ideas:</h3>
 <p align="center">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,pytorch,opencv,linux,apple"/>  
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,pytorch,opencv,linux,apple"/>  
 </p> 
 
 <br><br>
