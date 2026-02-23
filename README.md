@@ -5,11 +5,12 @@
  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,pytorch,opencv,linux,apple"/>  
 </p> 
 
-<br>
+<br/>
 
 <p align="center">
  <img src="images/accepted.png" width="400" alt="Solution Performance">
 </p>
+<br/>
 
 # I'm working on
 - [ADS-Skynet](https://github.com/ADS-Skynet): Autonomous Driving Agent &nbsp;
@@ -17,7 +18,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" valign=middle height="20"/>
   <img src="https://img.shields.io/badge/Simulator-Carla-00bfff?style=for-the-badge&logo=...&logoColor=white" height="20" valign="middle"/>
   <img src="https://img.shields.io/badge/NVIDIA-Jetson-76b900?style=for-the-badge&logo=...&logoColor=white" height="20" valign="middle"/>
-  <br/><br/>
+<br/><br/>
 
 # Previous Works
 - [DES-InstrumentCluster](https://github.com/smwkbgmn/DES_Instrument-Cluster): Embedded System with QT Framework &nbsp;
@@ -26,10 +27,10 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" valign=middle height="20"/>
 - [Webserv](https://github.com/smwkbgmn/webserv): Light-weight webserver satisfying the HTTP 1.1 with CGI support from scratch written in vanila C++
 - [MiniRT](https://github.com/smwkbgmn/minirt): 3D space visualizer implementing ray-casting from scratch written in vanila C
-  <br/><br/>
+<br/><br/>
 
 # What I'm studying
 - 42: Python for data science
 - Google Developer Program: Machine Learning
 - Daily LeetCode for practicing fundamental of software
-  
+<br/><br/>
