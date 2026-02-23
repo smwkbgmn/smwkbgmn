@@ -29,7 +29,7 @@
   <br/><br/>
 
 # What I'm studying
-- [42: Python for data science](https://github.com/smwkbgmn/42_python)
-- [Google Developer Program: Machine Learning](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/linear-regression)
-- [Daily LeetCode for practicing fundamental of software](https://github.com/smwkbgmn/daily_solution_leetcode)
+- 42: Python for data science
+- Google Developer Program: Machine Learning
+- Daily LeetCode for practicing fundamental of software
   
