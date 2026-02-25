@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" valign=middle height="20"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" valign=middle height="20"/>
   <img src="https://img.shields.io/badge/Simulator-Carla-00bfff?style=for-the-badge&logo=...&logoColor=white" height="20" valign="middle"/>
-  <img src="https://img.shields.io/badge/NVIDIA-Jetson-76b900?style=for-the-badge&logo=...&logoColor=white" height="20" valign="middle"/>
 <br/><br/>
 
 # Previous Works
