@@ -29,7 +29,7 @@
 - [MiniRT](https://github.com/smwkbgmn/minirt): 3D space visualizer implementing ray-casting from scratch written in vanila C
 <br/><br/>
 
-# What I'm studying
+# Where I'm deepening my knowledge
 - 42: Python for data science
 - Google Developer Program: Machine Learning
 - Daily LeetCode for practicing fundamental of software
