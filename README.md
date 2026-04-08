@@ -1,6 +1,6 @@
 <h1 align="center">An enthusiastic problem-solver 🤔 </h1>
 
-<h3 align="center">What I utilize to embody ideas:</h3>
+<h3 align="center">What I use to bring ideas to life:</h3>
 <p align="center">
  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,pytorch,opencv,linux,apple"/>  
 </p> 
